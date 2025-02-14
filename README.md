@@ -51,7 +51,7 @@ voyagerTemps(nomEpoque, function () {});
 **Résultat attendu :**
 
 - Quand une époque est choisie, on doit voir un "loader" de chargement à la place de "Actuelle (2025)".
-- Quand le votage temportel est terminé :
+- Quand le voyage temportel est terminé :
   - Le loader disparaît.
   - On doit voir le nom de l'époque apparaitre à la place de "Actuelle (2025)".
 
